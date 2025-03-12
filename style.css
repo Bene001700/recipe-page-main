@@ -166,8 +166,15 @@ span{
 
 @media screen and (min-width: 1000px) {
     
+    .content p {
+        padding:  0px 60px 0px 0px;
+    }
     h1 {
         padding-left: 0px;
+    }
+
+    .nutritions p {
+        padding: 20px 0px;
     }
     .preparation-time, .ingredients, .instructions, .nutritions {
         padding: 0px 60px 20px 0px;
